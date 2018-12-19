@@ -1,6 +1,8 @@
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+---
+layout: page
+title: François Thareau
+tagline: Curriculum vitæ
+description: Curriculum vitæ
+---
+
+content
