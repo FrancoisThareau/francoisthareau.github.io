@@ -1,0 +1,55 @@
+####################################
+# Global
+*.log
+*.tmp
+.tmp/
+.DS_Store
+Thumbs.db
+
+# Eclipse
+.project
+.externalToolBuilders/
+.classpath
+.settings/
+.factorypath
+.apt_generated
+bin/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Maven, Java
+*.class
+classes/
+target/
+
+# ExtJs, Sencha
+.architect
+archive/
+build/
+
+# NodeJS, Bower, Grunt ...
+node_modules/
+bower_components/
+.sass-cache
+*.css.map
+dist/
+
+# PlanetVO
+developpement.properties
+test_etat.pdf
+
+# SpringBoot
+application.pid
+application.port
+application-management.port
+
+# maven wrapper
+.mvn/
+mvnw
+mvnw.cmd
+
+####################################
+######       Specifique       ######
+####################################
